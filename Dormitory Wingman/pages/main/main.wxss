@@ -1,0 +1,82 @@
+page{
+width:100%;
+height:100%;
+overflow: hidden;
+}
+.whole{
+width:100%;
+height:100%;
+background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575806822365&di=04bab14ffa311cd6422dc8520200d169&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2111621785%2C1926835326%26fm%3D214%26gp%3D0.jpg);
+background-size: cover;
+}
+
+.btn1 {
+  font-size: 20px;
+  top: 60px;
+  width: auto;
+  background-color: #4ea5d8;
+  color: #fff;
+  border-radius: 98rpx; 
+  
+}
+.btn2 {
+  font-size: 20px;
+  top: 120px;
+  width: auto;
+  background-color: #4ea5d8;
+  color: #fff;
+  border-radius: 98rpx; 
+  margin: 20px ;
+}
+.btn3 {
+  font-size: 20px;
+  top: 180px;
+  width:   auto;
+  background-color: #4ea5d8;
+  color: #fff;
+  border-radius: 98rpx; 
+  margin: 20px ;
+}
+.btn4 {
+  font-size: 20px;
+  top: 240px;
+  width:  auto;
+  margin: 20px ;
+  background-color: #4ea5d8;
+  color: #fff;
+  border-radius: 98rpx; 
+}
+.btn5 {
+  font-size: 20px;
+  top: 300px;
+  width: 75%;
+  margin: 20px ;
+  background-color: #4ea5d8;
+  color: #fff;
+  border-radius: 98rpx; 
+}
+.i1{
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+}
+.i2{
+  width: 23px;
+  height: 23px;
+  margin-left: 0px;
+}
+.i3{
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+}
+.i4{
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+}
+.i5{
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+}

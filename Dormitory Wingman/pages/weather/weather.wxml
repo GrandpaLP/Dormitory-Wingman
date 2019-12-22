@@ -1,0 +1,52 @@
+
+<view class="whole">
+
+ <button 
+  
+  class="btn1" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="temperature"
+  hover-class="tap"
+ >
+  <image src="../../image/temp.png" class="i1"></image>环境质量
+ </button>
+ <button 
+  class="btn2" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="wear"
+  hover-class="tap"
+ >
+  <image src="../../image/cloth.png" class="i2"></image>穿衣指数
+ </button>
+  <button 
+  class="btn3" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="fever"
+  hover-class="tap"
+ >
+  <image src="../../image/fever.png" class="i3"></image>感冒指数
+ </button>
+ <button 
+  class="btn4" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="sport"
+  hover-class="tap"
+ >
+ <image src="../../image/sport.png" class="i4"></image>运动指数
+ </button>
+ <button 
+  class="btn5" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="back"
+  hover-class="tap"
+ >
+ <image src="../../image/uv.png" class="i5"></image>紫外线强度
+ </button>
+</view>
+
+

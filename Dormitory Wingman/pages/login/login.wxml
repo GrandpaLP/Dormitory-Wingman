@@ -1,0 +1,15 @@
+
+<view class="whole">
+<camera
+ device-position="front"
+ flash="off"
+ binderror="error"
+ style="width: 100%; height: 300px;"
+></camera>
+<button type="primary" bindtap="takePhoto"class="shibie"hover-class="tap">
+<image src="../../image/recognize.png" class="i1"></image>识别登录
+</button>
+<view class="yulan">预览图如下</view>
+<image mode="widthFix" src="{{src}}"
+style="width: 100%; height: 300px;"></image>
+</view>

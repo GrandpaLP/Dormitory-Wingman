@@ -1,0 +1,28 @@
+<view class="whole">
+ <view class="title1">
+  <text >welcome</text>
+ </view>
+ <view class="title2">
+  <text style="font-family:fantasy">欢迎使用宿舍小帮手</text>
+ </view>
+ <button 
+  class="btn" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="register"
+  hover-class="tap"
+ >
+ <image src="../../image/register.png" class="i1"></image>注册
+ </button>
+ <button 
+  class="btn" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="login"
+  hover-class="tap"
+ >
+ <image src="../../image/login.png" class="i2"></image> 登录
+ </button>
+
+</view>
+

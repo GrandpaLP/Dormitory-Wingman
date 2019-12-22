@@ -1,0 +1,26 @@
+<view class="whole">
+<button 
+  
+  class="btn1" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="start"
+  hover-class="tap"
+ >
+  <image src="../../image/start.png" class="i1"></image>开始
+ </button>
+ <button 
+  class="btn2" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="pause"
+  hover-class="tap"
+ >
+  <image src="../../image/pause.png" class="i2"></image>暂停
+ </button>
+
+
+
+
+
+</view>

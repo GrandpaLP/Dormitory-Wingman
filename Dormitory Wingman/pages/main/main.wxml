@@ -1,0 +1,50 @@
+<view class="whole">
+
+ <button 
+  
+  class="btn1" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="dormitory"
+  hover-class="tap"
+ >
+ <image src="../../image/home.png" class="i1"></image> 宿舍环境
+ </button>
+ <button 
+  class="btn2" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="weather"
+  hover-class="tap"
+ >
+ <image src="../../image/weather.png" class="i2"></image> 今日天气
+ </button>
+  <button 
+  class="btn3" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="_button"
+  hover-class="tap"
+ >
+ <image src="../../image/lumb.png" class="i3"></image> 灯控开关
+ </button>
+ <button 
+  class="btn4" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="music"
+  hover-class="tap"
+ >
+<image src="../../image/music.png" class="i4"></image> 播放音乐
+ </button>
+ <button 
+  class="btn5" 
+  style="opacity: {{opacity}}" 
+  disabled="{{disabled}}" 
+  bindtap="back"
+  hover-class="tap"
+ >
+ <image src="../../image/back.png" class="i5"></image>返回首页
+ </button>
+</view>
+

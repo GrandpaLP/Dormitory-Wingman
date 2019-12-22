@@ -1,0 +1,8 @@
+<view class="whole">
+<canvas class = "_chart" id="chart1"
+canvas-id="humidity"></canvas>
+<canvas class = "_chart" id="chart2"
+canvas-id="light"></canvas>
+<canvas class = "_chart" id="chart3"
+canvas-id="tempe"></canvas>
+</view>

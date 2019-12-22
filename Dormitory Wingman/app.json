@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/register/register",
+    "pages/login/login",
+    "pages/main/main",
+    "pages/weather/weather",
+    "pages/dormitory/dormitory",
+    "pages/_button/_button",
+    "pages/music/music"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#4ea5d8",
+    "navigationBarTitleText": "宿舍小帮手",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
